@@ -3,9 +3,12 @@ there are some descriptions of iptables's rules
 #ssh.rule  
 The collection of sshd service rules
 
-#ping_out 
+#ping_out.rule
 Ping outside the network
 
-#ping_in
+#ping_in.rule
 The  others servers are connected to the server through ping
+
+#dns.rule
+Get parsing from the DNS server
 
