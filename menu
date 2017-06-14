@@ -12,3 +12,6 @@ The  others servers are connected to the server through ping
 #dns.rule
 Get parsing from the DNS server
 
+#yum.rule
+Use the yum command
+
