@@ -1,4 +1,11 @@
 there are some descriptions of iptables's rules
 
-ssh.rule  is a collection of sshd service rules
+#ssh.rule  
+The collection of sshd service rules
+
+#ping_out 
+Ping outside the network
+
+#ping_in
+The  others servers are connected to the server through ping
 
